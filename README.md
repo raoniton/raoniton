@@ -8,10 +8,21 @@
 C, Java, JavaScript, Python, HDL, Haskell, etc. 
   - ![C Bagde](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
   - Among these, I spent the most time coding in C. Currently, I’m focusing on improving my Python skills <br><br>
+  - But here on github I didn't upload all my codes, so that's the overview:
+    
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raoniton&hide=portugol,prolog&layout=compact&theme=dark)
+
+    <!-- <img alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raoniton&layout=compact&theme=dark" /> -->
+    <!-- card layout: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
+
 - ```♿️ I'm a person with a disability, so I’ve learned to adapt to different challenges in my life, and I keep pushing forward.```
 <br><br>
 
 - ⚡ Fun fact: My name is uncomum in Brazil, so people often mispronounce it. To make things easier, you can call me ```Rao/Raô```(it's like 'How' / 'Ha - o') 😂😉
+
+
+
+
 
 <!--
 **raoniton/raoniton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
